@@ -1,0 +1,5 @@
+*venv
+dist
+.pypirc
+
+*egg-info
